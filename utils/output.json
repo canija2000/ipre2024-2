@@ -48,5 +48,26 @@
     "year": "2022",
     "keywords": "higher education institutions; scoping review; teacher effectiveness; teacher student interaction; undergraduate students",
     "text": ""
-  }
+  },
+  {
+    "link": "https://doi.org/10.1080/01587919.2015.1055059",
+    "title": "Student workload: a case study of its significance, evaluation and management at the Open University",
+    "year": "2015",
+    "keywords": "assignment feedback; learning design; pedagogy; student-focused approaches; student workload; study time",
+    "text": "El problema principal es qué se debe enseñar y cuánto le debe tomar al alumno aprender esto. Se pregunta ¿qué factores influyen en el tiempo de estudio, respecto a la literatura del tema? La carga académica se basa en varios puntos de vista y evidencia. El tiempo es una causa importante de deserción (Ashby 2004, Thorpe 2006). Sin embargo, medir el tiempo de estudio y relacionarlo con los resultados académicos no es fácil. Se discute la percepción de que \"obtienes lo que te esfuerzas\", pero el éxito no siempre se mide en función del tiempo, sino en la comprensión del material. La Open University encuesta a sus estudiantes sobre la carga académica para mejorar el diseño del aprendizaje, pero los resultados varían por área de estudio. El desafío está en encontrar prácticas comunes que beneficien a todas las disciplinas. El paper también menciona la dificultad de equilibrar las necesidades de distintos campos, como el arte y la medicina, lo cual requiere ajustes específicos en la carga de trabajo."
+    },
+    {
+      "link": "https://doi.org/10.1007/978-3-030-32423-0_3",
+      "title": "Student Workload, Wellbeing and Academic Attainment",
+      "year": "2019",
+      "keywords": "workload; wellbeing; academic attainment; time pressure; course stress",
+      "text": "Este estudio explora la relación entre la carga de trabajo percibida por los estudiantes, el bienestar y el rendimiento académico en un grupo de 1299 estudiantes de Psicología en la Universidad de Cardiff. Se evaluaron los efectos del tiempo en la universidad, la presión de tiempo y la percepción de carga de trabajo. Los resultados indican que la carga de trabajo percibida está relacionada tanto con resultados positivos (eficiencia en el trabajo, bienestar positivo) como negativos (estrés académico, bienestar negativo). La presión de tiempo afecta negativamente el bienestar, pero no el rendimiento académico. El paper concluye que, aunque la carga de trabajo puede percibirse como estresante, también puede actuar como un desafío que motiva y mejora el rendimiento. Se sugiere más investigación longitudinal para comprender mejor estos efectos."
+    },
+    {
+      "link": "https://doi.org/10.1007/978-3-030-14273-5_9",
+      "title": "Estimating Student Workload During the Learning Design of Online Courses: Creating a Student Workload Calculator",
+      "year": "2019",
+      "keywords": "student workload; online learning; distance learning; learning design",
+      "text": "Este paper desarrolla una calculadora de carga de trabajo para cursos en línea, basada en el marco conversacional de Laurillard (2009, 2013). Se identifican tipos de tareas como la lectura, discusión, investigación y práctica, y se estiman los tiempos para completar cada tarea en función de la dificultad y el propósito del estudiante. El artículo destaca la complejidad de medir la carga de trabajo en un entorno en línea, donde los estudiantes pueden trabajar indefinidamente. Se sugiere el uso de herramientas de análisis de aprendizaje y estudios cualitativos para ajustar las estimaciones de carga de trabajo y mejorar el diseño de los cursos en línea. La herramienta busca equilibrar los resultados de aprendizaje con una carga de trabajo razonable para evitar la deserción estudiantil."
+    }
 ]
